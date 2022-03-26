@@ -33,7 +33,7 @@
 </div>
 
 
-I am learning <b>Full-Stack Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://www.masaischool.com/">Masai School</a> from India.
+I am learning <b>Full-Stack Web Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://www.masaischool.com/">Masai School</a> from Bengaluru,India.
  I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 
 <br />
