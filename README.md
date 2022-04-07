@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=flat-square&color=blue" alt="profile-view"/>
 
 <h1>
   hey there
