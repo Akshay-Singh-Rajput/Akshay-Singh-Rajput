@@ -59,7 +59,7 @@ Aspiring <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/medi
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=#0370BA">
-<img src="http://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&logoColor=#0370BA">
+<img src="http://img.shields.io/badge/-Ubuntu-white?style=flat&logo=ubuntu&logoColor=#0370BA">
 <img src="http://img.shields.io/badge/-Gitbash-green?style=flat&logo=gitbash&logoColor=#0370BA">
 
 
