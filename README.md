@@ -69,6 +69,7 @@ Aspiring <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/medi
 <!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
 <!-- <img src="https://img.shields.io/badge/-Materialui-000000?style=flat&logo=materialui&logoColor=00c8ff"> -->
+<!-- <img src="https://img.shields.io/badge/-Vscode-000000?style=flat&logo=vscode&logoColor=00c8ff"> -->
 
 
 <br />
