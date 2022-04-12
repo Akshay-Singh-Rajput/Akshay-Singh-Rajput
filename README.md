@@ -18,7 +18,6 @@
   </a>
   <a href="mailto: akshaysinghr98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=flat-square&color=blue" alt="profile-view"/>
@@ -41,55 +40,53 @@ Learning <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/medi
 <br />
 <br />
 <br />
-
-### Tech & Tools Preference
-
+  
+  ### 🛠 My favorite tools
+<hr color=silver/>
+  
+### 👨‍💻 Programming languages
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Bash-green?style=flat&logo=bash&logoColor=#0370BA">
+
+  ### 🧰 Frameworks and libraries
+<img src="https://img.shields.io/badge/-React-2A2D33?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Express.js-47535D?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Material Design-0F82C5?style=flat&logo=materialdesign&logoColor=white">
+<img src="https://img.shields.io/badge/-Wordpress-2D799B?style=flat&logo=wordpress&logoColor=white">
+  
+  ### 🗄 Databases and cloud hosting
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=#0370BA">
-<img src="http://img.shields.io/badge/-Ubuntu-white?style=flat&logo=ubuntu&logoColor=#0370BA">
-<img src="http://img.shields.io/badge/-Gitbash-green?style=flat&logo=gitbash&logoColor=#0370BA">
-
+<img src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Replit.it-black?style=flat&logo=replit&logoColor=#0370BA">
+  
+  ### 💻 Software and tools
+<img src="http://img.shields.io/badge/-Ubuntu-white?style=flat&logo=ubuntu&logoColor=#0370BA"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Postman-F57141?style=flat&logo=postman&logoColor=white">
+<img src="http://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=#0370BA">
+<img src="http://img.shields.io/badge/-Google Sheets-3CA458?style=flat&logo=sheet&logoColor=#0370BA">
+<img src="http://img.shields.io/badge/-OBS Studio-39373A?style=flat&logo=obsstudio&logoColor=#0370BA">
+ 
 
 <!-- <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
 <!-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> -->
 <!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
-<!-- <img src="https://img.shields.io/badge/-Materialui-000000?style=flat&logo=materialui&logoColor=00c8ff"> -->
-<!-- <img src="https://img.shields.io/badge/-Vscode-000000?style=flat&logo=vscode&logoColor=00c8ff"> -->
 
 
 <br />
 <br />
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="ubuntu" width="40" height="40"/>
+  
 </div>
  -->
 <br />
@@ -97,5 +94,6 @@ Learning <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/medi
 <br />
 <br />
 
+### 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Singh-Rajput&layout=compact&theme=vision-friendly-dark)](https://github.com/Akshay-Singh-Rajput/github-readme-stats)
