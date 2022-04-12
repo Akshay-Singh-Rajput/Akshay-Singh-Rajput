@@ -55,7 +55,8 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 <img src="https://img.shields.io/badge/-Wordpress-2D799B?style=flat&logo=wordpress&logoColor=white">
   
   ### 🗄 Databases and cloud hosting
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-AWS-F5971E?style=flat&logo=amazonwebserver&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=#0370BA">
