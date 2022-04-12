@@ -5,10 +5,6 @@
 </div>
 
 
-
-
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,9 +28,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-Learning <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com/">Masai School</a> from Bengaluru,India.
- I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
+<br/>
+Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com/">Masai School</a> from Bengaluru,India.
+ I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms. </div>
 
 <br />
 <br />
