@@ -29,15 +29,35 @@
 </div>
 
 <br/>
-Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
- I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms. </div>
+<!-- Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
+ I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms. -->
+</div> 
+ 
+ ---
+
+### :man_technologist: About Me : 
+<div></div>
+Learning <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank"> Masai School </a> from Bengaluru,India.
+<br/>
+- :telescope: Learning Full- contributing to frontend and backend for building web applications.
+- :seedling: I’m currently learning **REACT.JS**
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar046203/)
+
+
+<!-- - 🌱 I’m currently learning **REACT.JS**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
+
+- 💬 Ask me about **MERN , Figma**
+
+- 📫 How to reach me **tech.aku17@gmail.com** -->
 
 <br />
 <br />
-<br />
-<br />
   
-  ### 🛠 My favorite tools
+  ### 🛠 My Skills
 <hr color=silver/>
   
 ### 👨‍💻 Programming languages
