@@ -14,6 +14,7 @@
   </a>
   <a href="mailto: akshaysinghr98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=flat-square&color=blue" alt="profile-view"/>
@@ -30,29 +31,27 @@
 
 <br/>
 <!-- Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
- I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms. -->
-</div> 
- 
+ I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.-->
+  
  ---
 
-### :man_technologist: About Me : 
-<div></div>
-Learning <b>Full-Stack Web Devlopment</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank"> Masai School </a> from Bengaluru,India.
-<br/>
-- :telescope: Learning Full- contributing to frontend and backend for building web applications.
-- :seedling: I’m currently learning **REACT.JS**
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+### :man_technologist: About Me
+Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
+  
+- 🌱 I’m currently learning React Js 
+  
+- 👯 I’m looking to collaborate on Open Source 
+  
+- 💬 Ask me about React.Js Javascript 
+  
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/akshay-kumar046203/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> <a href="mailto: akshaysinghr98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
+  
+ - ⚡ Fun fact: I am so lazy, so i write code for my work 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar046203/)
 
-
-<!-- - 🌱 I’m currently learning **REACT.JS**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
-
-- 💬 Ask me about **MERN , Figma**
-
-- 📫 How to reach me **tech.aku17@gmail.com** -->
 
 <br />
 <br />
