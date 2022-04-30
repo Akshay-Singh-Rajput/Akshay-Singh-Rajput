@@ -39,17 +39,17 @@
 Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
   
 - 🌱 I’m currently learning React Js 
-  
-- 👯 I’m looking to collaborate on Open Source 
-  
-- 💬 Ask me about React.Js Javascript 
-  
+
+- 👯 I’m looking to collaborate on Open Source
+
+- 💬 Ask me about React.Js Javascript
+
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <a href="mailto: akshaysinghr98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
-  
- - ⚡ Fun fact: I am so lazy, so i write code for my work 
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+    
+ - ⚡ Fun fact: I am lazy person, because I write programs to automate most I do at work.
 
 
 
