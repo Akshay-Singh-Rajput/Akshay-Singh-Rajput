@@ -38,23 +38,37 @@
 ### :man_technologist: About Me
 Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
   
-- 🌱 I’m currently learning React Js 
+<!-- - 🌱 I’m currently learning React Js -->
 
-- 👯 I’m looking to collaborate on Open Source
+- 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
-- 💬 Ask me about React.Js Javascript
+- 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/akshay-kumar046203/">
+- 💬 Ask me about **React.Js Javascript**
+
+- 📫 &nbsp; How to reach me **akshaysinghr98@gmail.com**
+
+
+<!-- - 📫 How to reach me:  <a href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <a href="mailto: akshaysinghr98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> -->
     
- - ⚡ Fun fact: I am lazy person, because I write programs to automate most I do at work.
-
+ - ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
 
 
 <br />
 <br />
+<h1> A Fact 🔥</h1>
+<p align="center">
+<H3> I am a Javascript Fanboy and One thing you should know about JavaScript is :</H3>
+ <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
+
+ <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
+</p>
+
+### 😂 Let's Put a Smile on That Face !!!
+![Jokes Card](https://readme-jokes.vercel.app/api)
   
   ### 🛠 My Skills
 <hr color=silver/>
