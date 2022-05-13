@@ -44,7 +44,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 
 - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
 
-- 💬 Ask me about **React.Js Javascript**
+- 💬 &nbsp; Ask me about **React.Js Javascript**
 
 - 📫 &nbsp; How to reach me **akshaysinghr98@gmail.com**
 
