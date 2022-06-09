@@ -113,13 +113,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 <!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/><br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Singh-Rajput&layout=compact&theme=vision-friendly-dark)](https://github.com/Akshay-Singh-Rajput/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Singh-Rajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akshay-Singh-Rajput" height="192px"/>
