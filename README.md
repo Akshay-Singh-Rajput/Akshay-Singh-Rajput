@@ -4,7 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
+<!--  <h2><img src="https://media.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif" width="40">&nbsp;Connect With Me </h2>
+  <br> -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,7 +42,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 <!-- - 🌱 I’m currently learning React Js -->
 
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
-
+- 🤝 I’m looking to collaborate on Open Source Projects
 - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
 
 - 💬 &nbsp; Ask me about **React.Js Javascript**
@@ -67,7 +68,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
  <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
 </p>
 
-### 😂 Let's Put a Smile on That Face !!!
+### 😂 Let's Put a Smile on Your Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   ### 🛠 My Skills
@@ -129,7 +130,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <a href="https://github.com/Akshay-Singh-Rajput/github-readme-stats"><img alt="Akshay-Singh-Rajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
    <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
