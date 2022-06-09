@@ -42,11 +42,9 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 <!-- - 🌱 I’m currently learning React Js -->
 
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🤝 I’m looking to collaborate on Open Source Projects
+- 🤝 &nbsp; I’m looking to collaborate on Open Source Projects
 - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
-
 - 💬 &nbsp; Ask me about **React.Js Javascript**
-
 - 📫 &nbsp; How to reach me **akshaysinghr98@gmail.com**
 
 
