@@ -10,13 +10,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akshay-kumar046203/">
+  <a target="_blank" href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCGFt3ELiRja8XdrTEl0w8dA/videos">
+  <a target="_blank" href="https://www.youtube.com/channel/UCGFt3ELiRja8XdrTEl0w8dA/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="mailto: akshaysinghr98@gmail.com">
+  <a target="_blank" href="mailto: akshaysinghr98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=for-the-badge&color=blue" alt="profile-view"/>
