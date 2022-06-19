@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="320"/>
 </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 <div display="flex">
   
 ##
-### :man_technologist: About Me <img  align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+### :man_technologist: About Me 
  
-Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
+Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
 - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
@@ -38,7 +38,7 @@ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/me
 - ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
 
 <br />
-<h1> A Fact 🔥</h1>
+<h2> A Fact 🔥</h2>
 <p align="center">
 <H3> I am a Javascript Fanboy and One thing you should know about JavaScript is :</H3>
  <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
