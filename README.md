@@ -1,11 +1,7 @@
 
-# *< hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Akshay Kumar />*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="320"/>
-</div>
-
-<div align="center">
+<div id="header" align="center">
+  <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Akshay Kumar. </h1>
+   <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/akshay-kumar046203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,14 +11,11 @@
   <a target="_blank" href="mailto: akshaysinghr98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+</div>
   <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=for-the-badge&color=blue" alt="profile-view"/>
 </div>
-<br/>
-<!-- Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
- I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.-->
-<div display="flex">
+
   
-##
 ### :man_technologist: About Me 
  
 Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
@@ -92,7 +85,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 
 <br/><br/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Singh-Rajput&layout=compact&theme=vision-friendly-dark)](https://github.com/Akshay-Singh-Rajput/github-readme-stats) -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Singh-Rajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akshay-Singh-Rajput" height="192px"/>
 
 ### 🔥 Streak stats
@@ -103,3 +96,18 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
   <br/>
    <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+  
+  
+  <!----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="320"/>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Singh-Rajput&layout=compact&theme=vision-friendly-dark)](https://github.com/Akshay-Singh-Rajput/github-readme-stats)
+
+ Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.
+ I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------>
