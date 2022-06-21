@@ -1,9 +1,5 @@
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  I am Akshay Kumar
-</h1>
+# *< hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Akshay Kumar />*
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="320"/>
@@ -29,13 +25,13 @@
 ##
 ### :man_technologist: About Me 
  
-Learning <b> Full-Stack Web Devlopment </b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-- 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
+Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+- 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
-- 🌱 &nbsp; All of my projects are available at [My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)
-- 💬 &nbsp; Ask me about **React.Js Javascript**
-- 📫 &nbsp; How to reach me **akshaysinghr98@gmail.com**
-- ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
+- 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)***
+- 💬 &nbsp; Ask me about ***React.Js Javascript***
+- 📫 &nbsp; How to reach me ***akshaysinghr98@gmail.com***
+- ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
 
 <br />
 <h2> A Fact 🔥</h2>
