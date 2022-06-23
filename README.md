@@ -64,7 +64,6 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 ### 🗄 Databases and cloud hosting
 <p>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt='mongoDB'> 
-<img src="http://img.shields.io/badge/-AWS-F5971E?style=for-the-badge&logo=amazonwebserver&logoColor=white" >
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
 <img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
@@ -99,6 +98,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
   
   
   <!----------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="http://img.shields.io/badge/-AWS-F5971E?style=for-the-badge&logo=amazonwebserver&logoColor=white" >
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="320"/>
