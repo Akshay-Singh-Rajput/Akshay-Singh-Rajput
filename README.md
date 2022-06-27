@@ -45,7 +45,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Bash-339933?style=for-the-badge&logo=bash&logoColor=#0370BA" alt="bash" />
+<img src="https://img.shields.io/badge/TypeScript-339933?style=for-the-badge&logo=typescript&logoColor=#0370BA" alt="typescript" />
 </p>
 
 ### 🧰 Frameworks and libraries
