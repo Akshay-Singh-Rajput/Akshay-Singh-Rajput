@@ -13,6 +13,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=for-the-badge&color=blue" alt="profile-view"/>
+   <a target="_blank" href="https://drive.google.com/drive/folders/1Xifb79HxVM-dWve86WcKWlYufwWAZVRE">
+     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume" />
+    </a>
 </div>
 
   
