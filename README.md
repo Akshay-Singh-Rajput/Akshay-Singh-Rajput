@@ -21,7 +21,7 @@
   
 ### :man_technologist: About Me 
  
-Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+***Software Developer(Frontend)*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.advantageclub.co/in" target="_blank">Advantage Club</a> Gurgaon,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 - 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
 - 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)***
@@ -85,18 +85,26 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 
 <br/><br/>
 
+<!-- GitHub's STATS  -->
+<h3 align="center">GitHub's Analytics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Singh-Rajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akshay-Singh-Rajput" height="192px"/>
+<hr>
 
-### 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<a href="https://github.com/Akshay-Singh-Rajput/github-readme-stats"><img alt="Akshay-Singh-Rajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
+<p align="center">
+<a href="https://github.com/Akshay-Singh-Rajput">
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Singh-Rajput&theme=vision-friendly-dark"/> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshay-Singh-Rajput&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+</p>
+
+  
 
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
    <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  
   
   <!----------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="http://img.shields.io/badge/-AWS-F5971E?style=for-the-badge&logo=amazonwebserver&logoColor=white" >
@@ -111,4 +119,12 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
  I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Singh-Rajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akshay-Singh-Rajput" height="192px"/>
+
+### 🔥 Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<a href="https://github.com/Akshay-Singh-Rajput/github-readme-stats"><img alt="Akshay-Singh-Rajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
+
+  
 ------------------------------------------------------------------------------------------------------------------------------------------------------>
