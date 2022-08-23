@@ -83,13 +83,13 @@
 <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
-<br/><br/>
+<br/>
 
+#
 <!-- GitHub's STATS  -->
-<h3 align="center">GitHub's Analytics</h3>
+<h3 align="center">⚡ GitHub's Analytics</h3>
 
-<hr>
-
+#
 <p align="center">
 <a href="https://github.com/Akshay-Singh-Rajput">
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Singh-Rajput&theme=vision-friendly-dark"/> -->
@@ -101,7 +101,7 @@
 
   
 
-  <summary><b>⚡ Recent GitHub Activity </b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity </b></summary> -->
   <br/>
    <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
