@@ -37,8 +37,6 @@
  <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
 </p>
 
-### 😂 Let's Put a Smile on That Face !!!
-![Jokes Card](https://readme-jokes.vercel.app/api)
   
 #  
 ### 🛠 My Skills
@@ -100,12 +98,6 @@
 </p>
 
   
-
-<!--   <summary><b>⚡ Recent GitHub Activity </b></summary> -->
-  <br/>
-   <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
   <!----------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="http://img.shields.io/badge/-AWS-F5971E?style=for-the-badge&logo=amazonwebserver&logoColor=white" >
 
@@ -126,5 +118,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <a href="https://github.com/Akshay-Singh-Rajput/github-readme-stats"><img alt="Akshay-Singh-Rajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
 
+
+ <summary><b>⚡ Recent GitHub Activity </b></summary> 
+  <br/>
+   <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
   
+  ### 😂 Let's Put a Smile on That Face !!!
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------>
