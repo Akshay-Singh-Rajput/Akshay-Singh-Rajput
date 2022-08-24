@@ -18,9 +18,10 @@
     </a>
 </div>
 
-  
-### :man_technologist: About Me 
- 
+#
+<h3 align="center">:man_technologist: About Me </h3>
+
+#  
 ***Software Developer(Frontend)*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.advantageclub.co/in" target="_blank">Advantage Club</a> Gurgaon,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 - 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
@@ -30,27 +31,19 @@
 - ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
 
 <br />
-<h2> A Fact 🔥</h2>
-<p align="center">
-<H3> I am a Javascript Fanboy and One thing you should know about JavaScript is :</H3>
- <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
- <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
-</p>
-
   
-#  
-### 🛠 My Skills
-### 👨‍💻 Programming languages
+#
+<h3 align="center">🛠 My Skills</h3>
+
+#
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-</p>
 
-### 🧰 Frameworks and libraries
-<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
@@ -58,10 +51,7 @@
 <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 <img src="https://img.shields.io/badge/Wordpress-2D799B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
-</p>
 
-### 🗄 Databases and cloud hosting
-<p>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt='mongoDB'> 
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
@@ -69,10 +59,7 @@
 <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=#0370BA" alt="netlify"/>
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="notion"/>
 <img src="http://img.shields.io/badge/Replit.it-black?style=for-the-badge&logo=replit&logoColor=#0370BA" alt="replit">
-</p>
 
-### 💻 Software and tools
-<p>
 <img src="http://img.shields.io/badge/-Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=#0370BA">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -84,7 +71,6 @@
 <br/>
 
 #
-<!-- GitHub's STATS  -->
 <h3 align="center">⚡ GitHub's Analytics</h3>
 
 #
@@ -128,4 +114,18 @@
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
+
+### 👨‍💻 Programming languages
+### 🧰 Frameworks and libraries
+### 🗄 Databases and cloud hosting
+### 💻 Software and tools
+
+
+<h2> A Fact 🔥</h2>
+<p align="center">
+<H3> I am a Javascript Fanboy and One thing you should know about JavaScript is :</H3>
+ <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
+ <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
+</p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------>
